@@ -1,0 +1,6 @@
+Sobre HTML
+<abbr title="J.K Rowling">autora</abbr></p>
+serve para quando passar o mouse na palavra atriz, aparecer o nome dela 
+
+<input type="text" id="p2" name="pergunta2" placeholder="Digite sua resposta"> 	
+Serve para perguntas abertas
